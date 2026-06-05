@@ -1,50 +1,67 @@
-# 🌙 YI SANG SUPREMACY 🌙
+# Yi Sang Archive
 
-<div align="center">
+A fan-made website dedicated to Yi Sang from Limbus Company.
 
-# THE YI SANG FAN REPOSITORY
+## About
 
-### Dedicated to the greatest sinner ever conceived.
+Yi Sang Archive is a simple fandom website created by a fan, for fans.
 
-![Yi Sang](https://img.shields.io/badge/YI%20SANG-PEAK%20FICTION-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-PERFECT-success?style=for-the-badge)
-![Truth](https://img.shields.io/badge/FACT-YI%20SANG%20BEST-important?style=for-the-badge)
-
-</div>
-
----
-
-## About This Repository
-
-This repository exists for one purpose.
-
-To acknowledge the greatness of Yi Sang.
-
----
+The goal of this project is to celebrate one of the most memorable characters in Limbus Company through a clean and atmospheric web experience inspired by Project Moon aesthetics.
 
 ## Features
 
-- ✓ Yi Sang
-- ✓ More Yi Sang
-- ✓ Even More Yi Sang
-- ✓ Unlimited Yi Sang Appreciation
-- ✓ Peak Fiction Analysis
+* Responsive design
+* Character appreciation page
+* Gallery section
+* Praise Counter
+* Simple JavaScript interactions
+* Easy deployment with GitHub Pages
 
----
+## Project Structure
 
-## Source Code
+```text
+yi-sang-fandom/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-```python
-class YiSang:
-    def __init__(self):
-        self.iq = float("inf")
-        self.drip = float("inf")
-        self.wisdom = float("inf")
-        self.peak_fiction = True
+## Local Usage
 
-    def describe(self):
-        return "The greatest character ever created."
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
 
-yi_sang = YiSang()
+No installation required.
 
-print("ALL HAIL YI SANG")
+## GitHub Pages Deployment
+
+1. Create a new repository on GitHub.
+2. Upload all project files.
+3. Open:
+
+Settings → Pages
+
+4. Under **Build and Deployment**:
+
+* Source: Deploy from a branch
+* Branch: main
+* Folder: /root
+
+5. Save changes.
+
+GitHub will generate a public URL for the website.
+
+## Disclaimer
+
+This is an unofficial fan project.
+
+Limbus Company and its related intellectual property belong to Project Moon.
+
+This website is not affiliated with or endorsed by Project Moon.
+
+## Dedication
+
+"The Ideal Has Been Realized."
+
+Dedicated to all Yi Sang fans.
